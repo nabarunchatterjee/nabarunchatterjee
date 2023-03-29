@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [myMemoryStore](https://prelaunch.mymemorystore.in)
+- 🔭 I’m currently working on [myMemoryStore](https://mymemorystore.in)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
